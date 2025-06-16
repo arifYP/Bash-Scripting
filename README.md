@@ -1,3 +1,21 @@
+# 🐧 Bash Scripting for Beginners
+
+## 📘 What is Bash Scripting?
+
+**Bash Scripting** is a way to automate tasks using the Bash shell. Bash (Bourne Again SHell) is the most common shell used in Linux and macOS. Bash scripts are text files that contain a series of commands, executed in order.
+
+---
+
+## 💡 Why Learn Bash Scripting?
+
+- ✅ Automate repetitive tasks
+- ✅ Manage systems efficiently
+- ✅ Improve productivity as a DevOps or Linux user
+- ✅ Schedule tasks using `cron`
+- ✅ Works in almost every Linux/Unix environment
+
+---
+
 # 🔤 String Operations in Bash Scripting
 
 Welcome to this beginner-friendly Bash scripting lab focused on **String Operations**. Working with strings is essential in Bash for tasks like text manipulation, automation, and system scripting.
