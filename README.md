@@ -4,8 +4,24 @@
 
 **Bash Scripting** is a way to automate tasks using the Bash shell. Bash (Bourne Again SHell) is the most common shell used in Linux and macOS. Bash scripts are text files that contain a series of commands, executed in order.
 
+A Bash script is a text file containing a series of commands, logic, and control structures (like if-else, loops), just like a traditional programming language.
+
+Bash scripting is a type of programming language, more specifically a scripting language used primarily for automating tasks in Unix/Linux systems.
+
 ---
 
+## 🧠 Is Bash Scripting a Programming Language?
+
+Yes, **Bash is considered a scripting language**, which is a category of programming language designed for automating processes. Bash supports:
+
+- ✅ Variables
+- ✅ Conditional statements (`if`, `elif`, `else`)
+- ✅ Loops (`for`, `while`, `until`)
+- ✅ Functions
+- ✅ Arithmetic and string operations
+- ✅ File and directory handling
+
+Bash scripts are widely used for automating repetitive system administration tasks, backups, deployments, and much more.
 ## 💡 Why Learn Bash Scripting?
 
 - ✅ Automate repetitive tasks
