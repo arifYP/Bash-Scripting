@@ -5,5 +5,5 @@ CPU_THRESHOLD=80
 MEM_THRESHOLD=70
 
 if [ "$cpu_usage" -gt "$CPU_THRESHOLD" ] && [ "$mem_usage" -gt "$MEM_THRESHOLD" ]; then
-  echo "‼️  CRITICAL: Both CPU and memory are overloaded!"
+  echo "‼️  CRITICAL: Both CPU and memory are overloaded!"./
 fi
