@@ -76,3 +76,35 @@ else
   # Commands if all conditions are false
 fi
 ```
+
+# 🐧 Bash Scripting Lab: Loops & Conditionals
+
+This repository contains beginner-friendly Bash scripting labs focused on conditional statements and looping constructs. Each script demonstrates real-world use cases using `if`, `elif`, `else`, `for`, `while`, `until`, and control statements like `break` and `continue`.
+
+---
+
+## 📁 Lab Contents
+
+| Filename               | Description                                      |
+|------------------------|--------------------------------------------------|
+| `logical-operators.sh` | Using logical AND (`&&`) and OR (`||`) operators |
+| `backup_system.sh`     | Simulated backup process using `if` and `else`   |
+| `for_basic.sh`         | Basic `for` loop example                         |
+| `for_array.sh`         | Iterating over arrays with `for` loop            |
+| `while_countdown.sh`   | Countdown using a `while` loop                   |
+| `until_file.sh`        | Using `until` to wait for a file                 |
+| `break_statement.sh`   | Breaking out of a loop based on a condition      |
+| `continue_statement.sh`| Skipping specific iterations in a loop           |
+
+---
+
+## 🚀 How to Run the Scripts
+
+Make sure you are using a Unix-like terminal (Linux, macOS, or Git Bash on Windows).
+
+```bash
+# Give execution permission
+chmod +x for_basic.sh
+
+# Run the script
+./for_basic.sh
